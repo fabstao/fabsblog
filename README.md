@@ -1,23 +1,13 @@
 # BLOG Fabs
 
-Aprendiendo Rails.
+Basic BLOG developed using RoR
 
-Things you may want to cover:
+## TODO
 
-* Ruby version
+* Add authentication
 
-* System dependencies
+* Add custom theme selection and creation
 
-* Configuration
+## By
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+(C) 2020 Fabian Salamanca <fabs@koalatechie.com>
